@@ -2,7 +2,9 @@
 
 A simple command-line interface (CLI) tool to fetch and display movies from The Movie Database (TMDB).
 
-Project URL: <https://github.com/yourusername/tmdb-cli-tool>
+Project URL: <https://github.com/ducvotm/tmdb-cli-tool>
+
+This project is based on the [TMDB CLI Tool project](https://roadmap.sh/projects/tmdb-cli) from roadmap.sh, which helps developers practice their programming skills including working with APIs, handling JSON data, and building CLI applications.
 
 ## Features
 
@@ -116,3 +118,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - [The Movie Database (TMDB)](https://www.themoviedb.org/) for providing the API
 - [Commander.js](https://github.com/tj/commander.js/) for the CLI framework
+- [roadmap.sh](https://roadmap.sh/projects/tmdb-cli) for the project idea and requirements
