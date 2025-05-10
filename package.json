@@ -1,0 +1,28 @@
+{
+  "name": "tmdb-cli-tool",
+  "version": "1.0.0",
+  "description": "A CLI tool to fetch and display movies from TMDB",
+  "main": "main.js",
+  "type": "module",
+  "bin": {
+    "tmdb-app": "./main.js"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "tmdb",
+    "movies",
+    "api"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 
